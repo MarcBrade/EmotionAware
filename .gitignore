@@ -1,0 +1,16 @@
+# Virtuelle Umgebung
+venv/
+env/
+
+# Python-Zwischenspeicher
+__pycache__/
+*.pyc
+
+# Generierte Laufzeitdaten (Videos und Tabellen)
+data/*.csv
+data/*.avi
+data/*.mp4
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
