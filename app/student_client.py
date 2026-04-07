@@ -28,7 +28,7 @@ st.set_page_config(page_title="Student Sender", layout="centered")
 
 # --- UI ---
 st.title("👨‍🎓 Student App")
-st.info("Diese App analysiert dein Gesicht lokal. Wähle die Kamera-Quelle, falls du Zoom parallel nutzt (via OBS).")
+st.info("Diese App analysiert dein Gesicht lokal. Wähle die Kamera-Quelle 1, falls du Zoom parallel nutzt (via OBS).")
 
 # Kamera-Auswahl für Zoom-Kompatibilität
 cam_index = st.selectbox("Kamera-Quelle wählen:", 

@@ -1,6 +1,6 @@
 # EmotionAware 🎓
 
-EmotionAware ist eine datenschutzkonforme Edge-AI-Architektur zur Analyse und Reflexion von Lernzuständen im E-Learning. Das Projekt ermöglicht es Lehrkräften, während einer Online-Vorlesung ein anonymisiertes Echtzeit-Feedback zur Konzentration der Klasse zu erhalten. Gleichzeitig bietet es eine fundierte Basis für die datenbasierte didaktische Selbstreflexion nach der Lehrveranstaltung.
+EmotionAware ist eine datenschutzkonforme Edge-AI-Architektur zur Analyse und Reflexion von Aufmerksamkeitszuständen in der synchronen Online-Lehre. Das Projekt ermöglicht es Lehrkräften, während einer Online-Vorlesung ein anonymisiertes Echtzeit-Feedback zur Konzentration der Klasse zu erhalten. Gleichzeitig bietet es eine fundierte Basis für die datenbasierte didaktische Selbstreflexion nach der Lehrveranstaltung.
 
 ## ✨ Hauptfunktionen
 
