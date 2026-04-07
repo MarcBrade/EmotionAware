@@ -46,7 +46,7 @@ Das System besteht aus zwei Komponenten, die idealerweise parallel getestet werd
 
 **Schritt 1: Das Dozenten-Dashboard starten**
 Starten Sie das Dashboard in Ihrem aktivierten Terminal mit folgendem Befehl:
-`streamlit run app/dozent_dashboard.py`
+`streamlit run app/dashboard.py`
 
 Ihr Standard-Webbrowser öffnet sich nun automatisch mit der Benutzeroberfläche.
 
